@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for Data Scientist's Toolbox on Cloudera
+Repository for Data Scientist's Toolbox on Coursera
